@@ -1,0 +1,1 @@
+Your adorable little fetus is busy with thumb sucking, toe wiggling, and (not so cute but equally amazing) making urine and breathing amniotic fluid as the liver, kidneys and spleen continue to develop. Lanugo (thin, downy hair) is growing all over the body for warmth.

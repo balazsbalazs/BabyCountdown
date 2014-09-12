@@ -9,19 +9,17 @@ import android.support.v4.app.FragmentStatePagerAdapter;
  * sequence.
  */
 class InforPageAdapter extends FragmentStatePagerAdapter {
-    private String[] titles = {"hello1", "hello2", "hello3", "hello4", "hello5", "hello6", "hello7", "hello1", "hello2", "hello3", "hello4", "hello5", "hello6", "hello7"};
-
     public InforPageAdapter(FragmentManager fm) {
         super(fm);
     }
 
     @Override
     public Fragment getItem(int position) {
-        return InfoFragment.newInstance(titles[position]);
+        return InfoFragment.newInstance(position);
     }
 
     @Override
     public int getCount() {
-        return titles.length;
+        return 40;
     }
 }
