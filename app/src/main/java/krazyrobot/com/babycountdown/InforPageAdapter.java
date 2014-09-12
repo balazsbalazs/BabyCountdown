@@ -20,6 +20,6 @@ class InforPageAdapter extends FragmentStatePagerAdapter {
 
     @Override
     public int getCount() {
-        return 40;
+        return AppPreferences.NUM_OF_WEEKS;
     }
 }

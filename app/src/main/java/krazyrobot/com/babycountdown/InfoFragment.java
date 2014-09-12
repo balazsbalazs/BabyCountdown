@@ -42,7 +42,7 @@ public class InfoFragment extends Fragment {
         mImageView = (ImageView) rootView.findViewById(R.id.image);
         mDescTextView = (TextView) rootView.findViewById(R.id.description);
 
-        String title = "Week " + (mWeek + 4);
+        String title = "Week " + (mWeek + 1);
         mTitleTextView.setText(title);
         loadImageFromFile(String.format("week%02d.gif", mWeek + 4), mImageView);
 //        loadMarkdownFromFile(String.format("description%02d.md", mWeek + 1), mDescTextView);

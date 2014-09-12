@@ -2,13 +2,13 @@ apply plugin: 'com.android.application'
 apply plugin: 'retrolambda'
 
 android {
-    compileSdkVersion 'android-L'
+    compileSdkVersion 20
     buildToolsVersion '20.0.0'
 
     defaultConfig {
         applicationId "krazyrobot.com.babycountdown"
         minSdkVersion 15
-        targetSdkVersion 'L'
+        targetSdkVersion 20
         versionCode 1
         versionName "1.0"
     }
@@ -34,6 +34,8 @@ dependencies {
     provided 'org.projectlombok:lombok:1.14.6'
     compile 'com.android.support:support-v4:21.0.0-rc1'
     compile 'com.commonsware.cwac:anddown:0.2.0'
+    compile 'com.doomonafireball.betterpickers:library:1.5.2'
+    compile 'joda-time:joda-time:2.4'
 }
 
 retrolambda {
