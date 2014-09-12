@@ -1,0 +1,1 @@
+Baby can listen to your voice and your heartbeat -- and even to loud sounds like cars honking and dogs barking at this stage.

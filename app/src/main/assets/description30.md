@@ -1,0 +1,1 @@
+Baby may have turned so she’s in the head-down position by now, poised for her trip down the birth canal. And you may have noticed your nipples looking darker. That’s so a preemie can see them for breastfeeding -- isn't your body so amazing?

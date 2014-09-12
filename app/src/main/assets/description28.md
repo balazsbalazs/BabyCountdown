@@ -1,0 +1,1 @@
+At 28 weeks, he’s not just moving a lot, he’s also plumping up. And as he continues to put pressure on your digestive system, you’re going to feel the effects: hemorrhoids, heartburn, pelvic pain and frequent urination are all common at this stage in the game.

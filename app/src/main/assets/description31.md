@@ -1,0 +1,1 @@
+Baby's keeping his eyes open while awake. He's also starting to coordinate breathing with sucking and swallowing.

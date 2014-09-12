@@ -1,0 +1,1 @@
+Baby will be able to flex his limbs at this point and his fingernails may extend past his fingertips.

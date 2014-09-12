@@ -1,0 +1,1 @@
+With bones and cartilage starting to form and vital organs beginning to function, baby is making major progress. Body length will almost double in the next three weeks, and arm joints are now working. (Soon, legs will too.)

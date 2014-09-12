@@ -1,0 +1,1 @@
+Your fetus is forming teeth and vocal cords... savor this, their non-functional phase. Baby is approaching normal proportions, with a head now only one third the size of the body. Intestines are in the process of moving from the umbilical cord to baby's tummy. (Much more convenient.)

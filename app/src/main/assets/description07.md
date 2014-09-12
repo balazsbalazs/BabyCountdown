@@ -1,0 +1,1 @@
+Your little embryo has now officially graduated to fetus-hood. Adding to the excitement, a Doppler ultrasound device might be able to pick up the beating heart. With basic physical structures in place and increasingly distinct facial features, baby is kind of starting to look like... well... a baby!

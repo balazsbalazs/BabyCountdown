@@ -1,0 +1,1 @@
+As you move into the second trimester, baby shifts into the growth and maturation stage. After weeks in the critical development stage, almost all of baby's systems are fully formed.

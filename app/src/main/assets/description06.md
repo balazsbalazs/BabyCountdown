@@ -1,0 +1,1 @@
+Your baby is growing like mad, putting on about a millimeter every day and continuing to straighten out in the trunk. Though you can't feel it yet, baby is moving those little arms, legs and (now only slightly) webbed fingers and toes like crazy.

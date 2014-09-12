@@ -1,0 +1,1 @@
+Your fetus currently enjoys a 1:1 ratio between body and head, and has skin so transparent that blood vessels show right through. But, fingers and toes are no longer webbed, and hair follicles, tooth buds and nail beds are forming -- setting up a significantly more attractive future.

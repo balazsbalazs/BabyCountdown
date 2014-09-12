@@ -13,7 +13,7 @@ import dagger.Provides;
 
 import static java.lang.annotation.RetentionPolicy.RUNTIME;
 
-@Module(injects = {AppPreferences.class, HomeActivity.class})
+@Module(injects = {AppPreferences.class, HomeActivity.class, ResourceProvider.class, InfoFragment.class})
 public class AppModule {
     private final Application mApp;
 

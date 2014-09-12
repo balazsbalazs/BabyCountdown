@@ -1,0 +1,1 @@
+At week 22, baby’s progress isn’t just about internal stuff, it’s about her looks too. With pinker, more opaque skin, she’s looking more and more, well, like a baby. You might be experiencing some of the discomforts of the later months of pregnancy like leg cramps, backaches and swollen feet

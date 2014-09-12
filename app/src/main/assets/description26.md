@@ -1,0 +1,1 @@
+At week 26, baby is breathing (it’s amniotic fluid, not air, but it still counts) and even showing brain activity.

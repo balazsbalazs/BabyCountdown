@@ -9,10 +9,8 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import com.doomonafireball.betterpickers.calendardatepicker.CalendarDatePickerDialog;
-import com.doomonafireball.betterpickers.datepicker.DatePickerDialogFragment;
 
 import org.joda.time.DateTime;
-import org.joda.time.Days;
 
 import javax.inject.Inject;
 
@@ -31,7 +29,7 @@ public class HomeActivity extends FragmentActivity {
 
         // Instantiate a ViewPager and a PagerAdapter.
         mPager = (ViewPager) findViewById(R.id.pager);
-        mPagerAdapter = new InforPageAdapter(getSupportFragmentManager());
+        mPagerAdapter = new InfoPageAdapter(getSupportFragmentManager());
         mPager.setAdapter(mPagerAdapter);
         mPager.setPageTransformer(true, new ZoomOutPageTransformer());
         jumpToActiveWeek();

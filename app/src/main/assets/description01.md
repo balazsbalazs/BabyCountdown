@@ -1,1 +1,1 @@
-Your adorable little fetus is busy with thumb sucking, toe wiggling, and (not so cute but equally amazing) making urine and breathing amniotic fluid as the liver, kidneys and spleen continue to develop. Lanugo (thin, downy hair) is growing all over the body for warmth.
+In week 1, sperm meets egg, and voila: conception! Your little zygote sets off on a six-day trek through your fallopian tubes, dividing and redividing into identical cells as it travels to your uterus.

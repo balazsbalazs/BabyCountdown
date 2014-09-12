@@ -1,0 +1,1 @@
+Baby's skeleton is hardening, changing from rubbery cartilage to bone, and fat is finally accumulating around it. The umbilical cord is getting thicker and stronger, and those little fingers and toes are now topped by one-of-a-kind prints.

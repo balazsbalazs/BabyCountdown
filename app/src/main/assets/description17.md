@@ -1,0 +1,1 @@
+Vernix caseosa, a greasy white substance made of lanugo, oil and dead skin cells (yum) now coats baby's skin, shielding it from the amniotic fluid. (Picture yourself after a nine-month bath, and the need for protection makes sense.) You might actually get to see the vernix at birth, especially if baby is premature.

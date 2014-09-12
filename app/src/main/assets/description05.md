@@ -1,0 +1,1 @@
+Baby's brain -- both hemispheres! -- is growing fast, generating about 100 new cells every minute. Arms and legs are emerging as joints start to form, and a permanent set of kidneys (baby's third!) is now in place.

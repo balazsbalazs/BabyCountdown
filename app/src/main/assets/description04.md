@@ -1,0 +1,1 @@
+Growing like crazy, baby is starting to sprout eyes, ears, nose, cheeks and chin. Those little hands and feet- still webbed like paddles- might wiggle by week's end, the heart is beating (almost twice as fast as yours!), and blood is starting to circulate.

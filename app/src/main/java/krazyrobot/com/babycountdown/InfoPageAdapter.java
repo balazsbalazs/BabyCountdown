@@ -4,12 +4,8 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
-/**
- * A simple pager adapter that represents 5 ScreenSlidePageFragment objects, in
- * sequence.
- */
-class InforPageAdapter extends FragmentStatePagerAdapter {
-    public InforPageAdapter(FragmentManager fm) {
+class InfoPageAdapter extends FragmentStatePagerAdapter {
+    public InfoPageAdapter(FragmentManager fm) {
         super(fm);
     }
 

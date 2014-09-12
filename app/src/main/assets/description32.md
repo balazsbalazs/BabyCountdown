@@ -1,0 +1,1 @@
+At 32 weeks, you might breathe a little easier, since baby may descend lower into your pelvis and give your lungs some space. (Ahh!) The pitfall of this descent, of course, is even more pressure on your bladder, so be prepared to make even more trips to the ladies room over the coming weeks.

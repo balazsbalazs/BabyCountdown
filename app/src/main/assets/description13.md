@@ -1,0 +1,1 @@
+Continuing the march towards normal proportions, baby's legs now outmeasure the arms. And, finally, all four limbs have functional joints. Your fetus is squirming and wiggling like crazy down in the womb, though you probably still can't feel the movements.

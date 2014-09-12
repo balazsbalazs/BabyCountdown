@@ -1,0 +1,1 @@
+At 36 weeks, baby’s probably sitting pretty low in your pelvis, which means he’s bumping into all kinds of nerves down there -- including some pretty sensitive ones you might not know you had.

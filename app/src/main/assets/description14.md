@@ -1,0 +1,1 @@
+Watch what you say... tiny bones forming in baby's ears mean the little one can now pick up your voice. Eyebrows, lashes and hair are starting to fill in, and taste buds are forming. And, if you're interested, an ultrasound might be able to determine gender.
